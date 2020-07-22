@@ -1,5 +1,7 @@
 # Linear Regression
 
+* { font-size: 9pt; }
+
  ### - This is a linear model ###
  ### - Models the relationship between two variables - an explanatory variable and a dependent variable ###
  ### - The variables should have a relationship - scatterplot - association ###
