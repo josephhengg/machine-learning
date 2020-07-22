@@ -1,6 +1,6 @@
 # Linear Regression
 
-# This is a linear model
+<p1> This is a linear model <p1>
  - Models the relationship between two variables - an explanatory variable and a dependent variable
  - The variables should have a relationship - scatterplot - association
  - A linear regression line has an equation of the form Y = a + bX
